@@ -1,3 +1,3 @@
 import streamlit
 
-stremlit.title('Looking for a great job opportunity')
+streamlit.title('Looking for a great job opportunity')
